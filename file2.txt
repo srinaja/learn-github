@@ -1,2 +1,2 @@
-1. changes in branch2
 changes in branch 1
+changes in master
