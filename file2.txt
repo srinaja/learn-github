@@ -1,2 +1,3 @@
 changes in branch 1
 changes in master
+adding a line in master
